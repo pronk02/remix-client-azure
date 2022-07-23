@@ -4,3 +4,5 @@ node_modules
 /api/build
 /public/build
 .env
+
+.history
